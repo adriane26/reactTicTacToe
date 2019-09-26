@@ -1,0 +1,7 @@
+TODO: 
+
+* Handle no winner: status, replay
+* Add "play again" button/ reset board
+* Add some stylez
+* Add images instead of X and Z
+* Option to choose player names and maybe images from a gallery
