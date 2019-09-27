@@ -5,3 +5,4 @@ TODO:
 * Add some stylez
 * Add images instead of X and Z
 * Option to choose player names and maybe images from a gallery
+* or: players can enter their own playerString, limit 3 characters
